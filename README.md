@@ -5,13 +5,17 @@ Excel projects for data analysis using formulas, pivot tables, and charts.
 This repository contains Excel projects focused on data analysis and reporting.
 The project demonstrates the use of Excel formulas, pivot tables, charts, and data cleaning techniques.
 
+##Dataset used
+- <a href="https://github.com/kumardhanu8173/Excel-Project/commit/e08483369868ad9704d991b3243c2c30bd0297df">Dataset view </a>
+
+
 📌 Features
 - Data cleaning and formatting
 - Pivot tables for analysis
 - Charts and visualizations
 - Simple dashboards (if applicable)
-
-🛠 Tools Used
+Dashboard <a href="https://github.com/kumardhanu8173/Excel-Project/blob/main/Screenshot_9-1-2026_13564_view.officeapps.live.com.jpeg">Dashboard view </a>
+🛠 Tools Used   
 - Microsoft Excel
 
 📂 Project Structure
@@ -19,7 +23,7 @@ The project demonstrates the use of Excel formulas, pivot tables, charts, and da
 - Cleaned Data – processed data
 - Analysis – pivot tables and calculations
 - Dashboard – charts and visuals
-
+Screenshot_9-1-2026_13564_view.officeapps.live.com
 🎯 Objective
 To practice Excel skills and gain hands-on experience in data analysis using real-world datasets.
 
