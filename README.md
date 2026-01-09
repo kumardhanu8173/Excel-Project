@@ -14,6 +14,7 @@ The project demonstrates the use of Excel formulas, pivot tables, charts, and da
 - Pivot tables for analysis
 - Charts and visualizations
 - Simple dashboards (if applicable)
+
 #Dashboard
 - <a href="https://github.com/kumardhanu8173/Excel-Project/blob/main/Screenshot_9-1-2026_13564_view.officeapps.live.com.jpeg">Dashboard view </a>
 
